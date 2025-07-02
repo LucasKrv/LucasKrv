@@ -15,7 +15,12 @@ Sou um estudante de desenvolvimento apaixonado por tecnologia e focado em desenv
 
 - 🌱 Atualmente estou aprendendo **JavaScript e PHP**.
 - 🔭 Estou focado atualmente em aprender programação do 0.
-- 😄 Pronomes: Ele/Dele
+
+---
+
+### 😂 Piada Aleatória de Programação
+
+![Joke Card](https://readme-jokes.vercel.app/api)
 
 ---
 ### 📊 Minhas Estatísticas no GitHub
