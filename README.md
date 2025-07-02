@@ -26,7 +26,7 @@ Sou um estudante de desenvolvimento apaixonado por tecnologia e focado em desenv
 ### 🐍 Minhas contribuições estão sendo devoradas pela cobrinha do Github
 
 <p align="center">
-  <img src="https://github.com/LucasKrv/LucasKrv/blob/output/github-contribution-grid-snake.svg" alt="snake">
+  ![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 </p>
 
 ---
