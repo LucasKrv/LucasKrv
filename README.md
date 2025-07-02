@@ -18,9 +18,23 @@ Sou um estudante de desenvolvimento apaixonado por tecnologia e focado em desenv
 
 ---
 
-### 😂 Piada Aleatória de Programação
+### 😂 Piada Aleatória
 
 ![Joke Card](https://readme-jokes.vercel.app/api)
+
+---
+### 🐍 Minhas contribuições estão sendo devoradas pela cobrinha do Github
+
+<p align="center">
+  <img src="https://github.com/seu-usuario-aqui/seu-usuario-aqui/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
+
+---
+### 👀 Visitantes no meu Perfil
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/seu-usuario-aqui/count.svg" alt="Contador de Visitas">
+</p>
 
 ---
 ### 📊 Minhas Estatísticas no GitHub
