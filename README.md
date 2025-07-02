@@ -26,14 +26,14 @@ Sou um estudante de desenvolvimento apaixonado por tecnologia e focado em desenv
 ### 🐍 Minhas contribuições estão sendo devoradas pela cobrinha do Github
 
 <p align="center">
-  <img src="https://github.com/seu-usuario-aqui/seu-usuario-aqui/blob/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://github.com/LucasKrv/LucasKrv/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 ---
 ### 👀 Visitantes no meu Perfil
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/seu-usuario-aqui/count.svg" alt="Contador de Visitas">
+  <img src="https://profile-counter.glitch.me/LucasKrv/count.svg" alt="Contador de Visitas">
 </p>
 
 ---
