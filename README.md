@@ -11,7 +11,7 @@
 
 ---
 
-Sou um desenvolvedor apaixonado por tecnologia e focado em desenvolvimento web.
+Sou um estudante de desenvolvimento apaixonado por tecnologia e focado em desenvolvimento fullstack.
 
 - 🌱 Atualmente estou aprendendo **JavaScript e PHP**.
 - 🔭 Estou focado atualmente em aprender programação do 0.
