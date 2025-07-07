@@ -18,11 +18,6 @@ Sou um estudante de desenvolvimento apaixonado por tecnologia e focado em desenv
 
 ---
 
-### 😂 Piada Aleatória
-
-![Joke Card](https://readme-jokes.vercel.app/api)
-
----
 ### 👀 Visitantes no meu Perfil
 
 <p align="center">
