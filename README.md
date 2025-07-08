@@ -4,10 +4,7 @@
   <a href="https://www.linkedin.com/in/lucas-b-carvalho" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:contatolucascarvalho.ti@gmail.com">
-    <img src="https://www.flaticon.com/br/icones-gratis/gmail" title="gmail ícones"/>
-  </a>
-</p>
+  </p>
 
 ---
 
