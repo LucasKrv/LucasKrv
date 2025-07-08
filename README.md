@@ -17,14 +17,6 @@ Sou um estudante de desenvolvimento apaixonado por tecnologia e focado em desenv
 - 🔭 Estou focado atualmente em aprender programação do 0.
 
 ---
-
-### 👀 Visitantes no meu Perfil
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/LucasKrv/count.svg" alt="Contador de Visitas">
-</p>
-
----
 ### 📊 Minhas Estatísticas no GitHub
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasKrv&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
